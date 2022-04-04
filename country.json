@@ -3,37 +3,37 @@
     {
         "name": "Katerina",
         "age": "22",
-        "dreamjob": "Professional peanut butter taster🤷🏻‍♀️",
+        "story": "",
         "image": "images/katerina.png",
-        "audio": "....mp3"
+        "countrycode": "CZE" 
     },
     {
         "name": "Maggie",
         "age": "24",
-        "dreamjob": "",
+        "story": "",
         "image": "images/maggie.png",
-        "audio": "....mp3"
+        "countrycode": "POL"
     },
     {
         "name": "Carl",
         "age": "22",
-        "dreamjob": "",
+        "story": "",
         "image": "images/carl.png",
-        "audio": "....mp3"
+        "countrycode": "DNK"
     },
       {
         "name": "Lajos",
         "age": "30",
-        "dreamjob": "",
-        "image": "images/lajos.png",
-        "audio": "....mp3"
+        "story": "",
+        "image": "images/lajos.png",        
+        "countrycode": "HUN"
     },
       {
         "name": "Jay",
         "age": "",
-        "dreamjob": "",
+        "story": "",
         "image": "images/jay.png",
-        "audio": "...mp3"
+        "countrycode": "GBR"
     }
  ]
 }
