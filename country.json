@@ -44,9 +44,10 @@
         "age": "30",
                "story": [
           {
-             "paragraph1": "",
-             "paragraph2": "",
-             "paragraph3": ""
+             "paragraph1": "My girlfriend has already been to Denmark ten years ago and she told me all her stories and experiences about her everyday life and education here. These things convinced me to come to Denmark.",
+             "paragraph2": "One concern I had was that I'll be too old to study at a university, which in retrospect was a very dumb reason to be afraid to move here. :) People also told me about the culture shock that could happen, but I've experienced none of it. I think it's because of my prior knowledge.",
+             "paragraph3": "But whatever your fears may be,I would say the most important thing to start right away is networking. For example I got a job offer at a cocktail bar through my girlfriend's boss. But the thing is, I haven't even met her yet! She was told that I need a job to get SU properly and she just asked around her bar owner/CEO friends and BAM, job opportunity. ",
+             "paragraph4": "So yeah, network, network, network! Many of us are still in the same place as you, we all help each other out. You just have to ask :)"
         }],
           "image": "images/lajos.png",        
         "countrycode": "HUN"
