@@ -12,11 +12,11 @@
           },
           {
                 "paragraph3": "The study program is demanding and working on the side to get SU is super time consuming. And it is windy and rainy a way too many days in a year. Plus everything is expensive and the only thing harder than Danish is making Danish friends. But trust me, it is all soo worth it.",
-          }
+          },
           {
             "paragraph4": "After a long time I feel like I am moving forward again. I feel happy. I feel purpose. And well if I can do it, so can you."
          }
-],
+        ],
         "image": "images/katerina.png",
         "countrycode": "CZE" 
     },
@@ -25,8 +25,12 @@
         "age": "24",
         "story": [
         {
+            { 
             "paragraph1": "I didn’t know what I wanted to do but I was pretty sure of wanting to stay in Denmark. I was building my life around this desire. I moved to my favorite city in Denmark - Aarhus. ",
+            },
+            {
             "paragraph2": "When I was looking for a stable job I had to find my way of surviving. I didn’t have a CPR number. I couldn’t open a bank account. My funds were getting smaller and all my job applications didn’t get a response. I became a freelance dog sitter. It was not a lot but I was able to pay my rent. There was someone interested in my dog sitting service so they added me to friends on Facebook but then they never hired me. ",
+           },
             "paragraph3": "Days passed by and I found a normal job as my life was becoming more stable. I was surprised to see an invitation to a Halloween party from a guy who didn’t hire me as a dog sitter after all. I didn’t know anyone who was invited except for another couple I used to do dog sitting for. I didn’t have any plans for Halloween but it felt very weird - going to somebody's house party where you don’t know anyone. My inner saboteur was strongly advising against it. But I knew I wanted to go. I didn’t want to sit alone in my apartment. I asked myself - what’s the worst thing that could happen? If it’s uncomfortable I can always leave. If people think I’m weird for coming I probably won’t ever see them again anyway. I had more reasons to go than to not go. ",
             "paragraph4": "And so I went. It was a bit awkward at the beginning, but the more into the night the more fun I had. I met some people I’m still in touch with. I danced my worries away and had a great time. It pays off to put yourself out there, to take that step. I did and it was worth it."
         }],
