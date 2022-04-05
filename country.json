@@ -16,12 +16,13 @@
     {
         "name": "Maggie",
         "age": "24",
-        "story": {
+        "story": [
+        {
             "paragraph1": "I didn’t know what I wanted to do but I was pretty sure of wanting to stay in Denmark. I was building my life around this desire. I moved to my favorite city in Denmark - Aarhus. ",
             "paragraph2": "When I was looking for a stable job I had to find my way of surviving. I didn’t have a CPR number. I couldn’t open a bank account. My funds were getting smaller and all my job applications didn’t get a response. I became a freelance dog sitter. It was not a lot but I was able to pay my rent. There was someone interested in my dog sitting service so they added me to friends on Facebook but then they never hired me. ",
             "paragraph3": "Days passed by and I found a normal job as my life was becoming more stable. I was surprised to see an invitation to a Halloween party from a guy who didn’t hire me as a dog sitter after all. I didn’t know anyone who was invited except for another couple I used to do dog sitting for. I didn’t have any plans for Halloween but it felt very weird - going to somebody's house party where you don’t know anyone. My inner saboteur was strongly advising against it. But I knew I wanted to go. I didn’t want to sit alone in my apartment. I asked myself - what’s the worst thing that could happen? If it’s uncomfortable I can always leave. If people think I’m weird for coming I probably won’t ever see them again anyway. I had more reasons to go than to not go. ",
             "paragraph4": "And so I went. It was a bit awkward at the beginning, but the more into the night the more fun I had. I met some people I’m still in touch with. I danced my worries away and had a great time. It pays off to put yourself out there, to take that step. I did and it was worth it."
-        },
+        }],
         "image": "images/maggie.png",
         "countrycode": "POL"
     },
@@ -42,11 +43,12 @@
       {
         "name": "Jay",
         "age": "36",
-        "story": {
+        "story": [
+          {
              "paragraph1": "I had an established career within a well known multinational company in the UK,  I met a Danish girl and had a long distance relationship. She moved to London for 2-years then we made a decision to move to Aarhus. Giving up what I had achieved was tough, not being able to secure employment prior to moving was causing more short term doubts but I was remaining positive.",
              "paragraph2": "Waking up the first morning realizing I was unemployed for the first time since I started working at 16 and with no purpose other than finding a job, I must have applied for every possible job and by every possible way…with no luck. Later on I secured a full-time job but after the initial learning period I was quick to realise there is no progression and wasn’t something I was passionate about, it was a means to get by and provide, as during that job we had a child and bought a house (BIG RESPONSIBILITIES) This made me re-evaluate how I can provide and give my family a better life.",
              "paragraph3": "Going back into education was something my girlfriend suggested as you can receive government financial support (SU) with a part time job and re-ignite my professional career in an industry I am interested in. Once I had applied this brought back similar doubts when leaving England and became quick to ask myself; Is this the correct path to take? What type of people will be on this program? (being an older student) Will I get enough money to survive? Can I balance my studies, a job and family life? Now I am settled on my program and have not looked back, only positives for my future. Chin up, smile, have fun and be positive :)"
-        },
+        }],
         "image": "images/jay.png",
         "countrycode": "GBR"
     }
