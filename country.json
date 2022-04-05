@@ -29,15 +29,26 @@
     {
         "name": "Carl",
         "age": "22",
-        "story": "",
+        "story": [
+          {
+             "paragraph1": "I'm from Denmark so there wasn’t actually any journey for me. But what I would like to tell you about is why I chose the international class over the Danish class for this education.",
+             "paragraph2": "So my whole life I have lived in Denmark and been in Danish classes with Danish students and teachers teaching in Danish, already see the problem right?",
+             "paragraph3": "First of all, it’s just boring to be only learning and meeting new people from Denmark. Second of all, I would not actually be ready for the international working environment that most big companies are in these days. Third, why choose to limit yourself only by learning in Danish instead of learning in the international standard?? Learning all the stuff in English will only increase your options when seeking your dream job.",
+             "paragraph4": "So that’s the main reason I chose the international class when the option was there instead of limiting myself to a language that only under 6 million people speak."
+        }],
         "image": "images/carl.png",
         "countrycode": "DNK"
     },
       {
         "name": "Lajos",
         "age": "30",
-        "story": "My girlfriend has already been to Denmark ten years ago and she told me all her stories and experiences about her everyday life and education here. These things convinced me to come to Denmark. One concern I had was that I'll be too old to study at a university, which in retrospect was a very dumb reason to be afraid to move here. :) People also told me about the culture shock that could happen, but I've experienced none of it. I think it's because of my prior knowledge. But whatever your fears may be,I would say the most important thing to start right away is networking. For example I got a job offer at a cocktail bar through my girlfriend's boss. But the thing is, I haven't even met her yet! She was told that I need a job to get SU properly and she just asked around her bar owner/CEO friends and BAM, job opportunity. So yeah, network, network, network! Many of us are still in the same place as you, we all help each other out. You just have to ask :)",
-        "image": "images/lajos.png",        
+               "story": [
+          {
+             "paragraph1": "",
+             "paragraph2": "",
+             "paragraph3": ""
+        }],
+          "image": "images/lajos.png",        
         "countrycode": "HUN"
     },
       {
