@@ -3,12 +3,13 @@
     {
         "name": "Katerina",
         "age": "22",
-        "story": {
+        "story":[
+        {
              "paragraph1": "After 2 years of full time traveling, I felt like I’d had enough of adventure. I wanted to challenge myself and get out of my comfort zone, on a different level this time. I might be the only person on this Earth but I actually wanted to experience being broke and all on my own and having to figure that all out. Because I believe that’s how we grow.",
              "paragraph2": "And so I packed my stuff and headed north. I mean, I am not gonna lie to you. It is not easy. During the first week, I slept on a floor, no bed, no mattress, just a pillow and a hope for better days.",
              "paragraph3": "The study program is demanding and working on the side to get SU is super time consuming. And it is windy and rainy a way too many days in a year. Plus everything is expensive and the only thing harder than Danish is making Danish friends. But trust me, it is all soo worth it.",
              "paragraph4": "After a long time I feel like I am moving forward again. I feel happy. I feel purpose. And well if I can do it, so can you."
-        },
+        }],
         "image": "images/katerina.png",
         "countrycode": "CZE" 
     },
